@@ -8,13 +8,13 @@ This Power BI project analyzes a real-world dataset of data professionals worldw
 
 The dataset contains responses from global data professionals, including:
 
-1.Demographics: Age, Gender, Country, Education, Ethnicity
-2.Job Satisfaction Metrics: Management, Salary, Learning Opportunities
-3.Career Insights:
+Demographics: Age, Gender, Country, Education, Ethnicity
+Job Satisfaction Metrics: Management, Salary, Learning Opportunities
+Career Insights:
 a. Difficulty in breaking into the data field
 b. Most important factors when seeking a new job
-4. Technical Skills: Commonly used programming languages
-5.  Job Titles & Salary Information
+Technical Skills: Commonly used programming languages
+Job Titles & Salary Information
 
 
 ## Dashboard Highlights
